@@ -32,4 +32,35 @@ Project managers are catalysts for change. Learn how to manage projects from beg
 
 
 
-## 
+
+
+
+##  [Project Management Foundations: Ethics](https://www.linkedin.com/learning/project-management-foundations-ethics-2/project-ethics-your-integrity-meter?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+
+
+
+
+##  [Project Management Foundations: Requirements0](https://www.linkedin.com/learning/project-management-foundations-requirements-2/managing-requirements-for-successful-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+
+
+
+
+##  [ Project Management Foundations: Schedules ](https://www.linkedin.com/learning/project-management-foundations-schedules-2/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+
+
+
+
+
+
+
+
+##  [Project Management Foundations: Budgets](https://www.linkedin.com/learning/project-management-foundations-budgets-3/manage-your-project-budget-so-it-doesn-t-manage-you?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+
