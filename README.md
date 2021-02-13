@@ -22,7 +22,7 @@ Project managers are catalysts for change. Learn how to manage projects from beg
 .
 
 
-> ![pmp linked.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1611946597/pmp_linked.png)
+> ![pmp](https://user-images.githubusercontent.com/36210723/107839005-99171d80-6db1-11eb-80e6-180efef5d0e5.png)
 
 
 .
