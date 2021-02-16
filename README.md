@@ -69,11 +69,35 @@ Project management is a set of techniques that anyone can apply to achieve goals
 
 .
 
+-------------------------------------------------
+
+
+##  Second Course [Project Management Foundations: Ethics](https://www.linkedin.com/learning/project-management-foundations-ethics-2/project-ethics-your-integrity-meter?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
 
 
-##  [Project Management Foundations: Ethics](https://www.linkedin.com/learning/project-management-foundations-ethics-2/project-ethics-your-integrity-meter?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
+
+## Course details
+
+Your overall success as a project manager depends upon your ability to identify and manage ethical issues. Ethical behavior is also a requirement for good standing with the Project Management Institute (PMI). To boost your reputation and increase project participation and success, you need to learn how to conduct your project in an ethical way and solve any complications that may arise—due to conflicts of interest, business pressure, or even fear of failure. Join PMP Bob McGannon in this course, as he examines the core values of ethical projects and the different ethical standards that can be applied to project management. Bob also shows how to develop and apply a framework for ethical decision-making that balances your organization’s unique cultural expectations with your own personal standards.
+
+
+
+
+## Learning objectives
+
+- Describe three ethical values used in project management.
+
+- Identify three strategies for showing regard for time and brainpower when communicating.
+
+- Explain the consequences of violating a mandatory ethical standard put forth by PMI.
+
+- Summarize the characteristics of PMI’s aspirational standards.
+
+- Determine whether a situation provides evidence for an aspirational standard.
+
+- Recognize three common challenges present during projection initiation and planning.
 
 .
 
@@ -85,7 +109,7 @@ Project management is a set of techniques that anyone can apply to achieve goals
 
 
 
-##  [Project Management Foundations: Requirements0](https://www.linkedin.com/learning/project-management-foundations-requirements-2/managing-requirements-for-successful-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+## Third Course [Project Management Foundations: Requirements0](https://www.linkedin.com/learning/project-management-foundations-requirements-2/managing-requirements-for-successful-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
 
 .
