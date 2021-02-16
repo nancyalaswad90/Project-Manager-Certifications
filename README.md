@@ -28,8 +28,39 @@ Project managers are catalysts for change. Learn how to manage projects from beg
 .
 
 
-##  [Project Management Foundations](https://www.linkedin.com/learning/project-management-foundations-4/deliver-successful-projects-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+##  First Course [Project Management Foundations](https://www.linkedin.com/learning/project-management-foundations-4/deliver-successful-projects-3?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
+
+## Course details
+
+
+Project management is a set of techniques that anyone can apply to achieve goals and make projects more successful. Project management can be used to guide small, simple projects as well as complex enterprise-wide initiatives. Bonnie Biafore has always been fascinated by how things work and how to make things work better. In this course, she explains the fundamentals of project management, from establishing project goals and objectives and building a project plan to managing resources and work, meeting deadlines, and closing the project. Along the way, she provides tips for communicating, holding meetings, keeping a project on track, and gaining customer acceptance. This course provides exercises for most videos based on a healthcare/IT case study project.
+
+
+
+
+## Learning objectives
+
+
+- Identify the definition of project management.
+
+- Explore the similarities and differences between traditional and agile project management.
+
+- Determine how organizational structure affects projects.
+
+- Explore the fundamentals of analyzing project stakeholders.
+
+- Examine the best ways to identify a project goal.
+
+- Determine the best ways to choose a strategy.
+
+- Examine strategies to gather requirements.
+
+- Identify the fundamentals of developing a project budget.
+
+- Distinguish the best ways to craft a quality plan.
+
+- Conclude the best steps to take when determining the processes for procuring resources.
 
 .
 
