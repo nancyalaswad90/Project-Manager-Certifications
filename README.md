@@ -196,8 +196,26 @@ Discover how to build project schedules that help you accomplish your project go
 
 ## Course details
 
+Budget is key to controlling a project's outcome—and one of the 10 foundational knowledge areas of the Project Management Body of Knowledge. In this course, designed for project management professionals and other leads who need to get a handle on their costs, author and PMP® Bob McGannon shows you how to manage your project's budget. Explore fundamentals such as the work breakdown structure, costing standards, and capital vs. operating costs. Then learn how to build, manage, and monitor a project budget. Plus, get practical tips on recovering from overruns and dealing with scope changes.
+
 
 ## Learning objectives
+
+
+
+- Recall best practices for project budgeting and estimation.
+
+- Distinguish common estimation approaches used to build project budgets, and understand when to use them.
+
+- Identify best practices for budget expectation management, while utilizing sound budget refinement techniques.
+
+- Describe and explore agile project budgeting techniques.
+
+- Review various approaches for correcting project budget overruns.
+
+- Review sound budget reporting approaches, including how they can be used to report project status.
+
+- Recognize the issues and changes that can put a project budget in jeopardy.
 
 
 .
