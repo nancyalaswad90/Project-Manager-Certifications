@@ -250,7 +250,7 @@ Explore leading techniques for understanding the personality traits of team memb
 
 .
 
-> 
+> ![team.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613518141/team.png)
 
 
 .
@@ -278,6 +278,10 @@ As a project manager, you'll spend most of your time communicating. To keep a fa
 
 - Review the SHARKS approach and explain how it helps with meeting organization.
 
+
+.
+
+> ![Communication.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613518246/Communication.png)
 
 
 .
@@ -309,7 +313,7 @@ If not managed properly, risk reduces your ability to achieve your project's goa
 
 .
 
-> 
+>  ![risk.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613518141/risk.png)
 
 .
 
@@ -340,7 +344,7 @@ Your stakeholders—individuals with a vested interest in your project's results
 
 .
 
-> 
+> ![stackholder.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613518141/stackholder.png)
 
 .
 
@@ -387,7 +391,7 @@ Take a quick minute or two and learn valuable, time-saving Microsoft Project tip
 
 .
 
-> 
+>  ![tip pmp.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613518141/tip_pmp.png)
 
 .
 
