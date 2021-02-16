@@ -226,25 +226,58 @@ Budget is key to controlling a project's outcome—and one of the 10 foundationa
 
 
 
-## Sixth Course 
+## Sixth Course  [Project Management Foundations: Teams](https://www.linkedin.com/learning/project-management-foundations-teams-3/tools-for-successful-project-teams?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
 
 ## Course details
+
+Explore leading techniques for understanding the personality traits of team members, and for managing the development of teams. Instructor Daniel Stanton discusses the value of learning about team members and explains a number of assessments that can assist with identifying personality types, emotional intelligence, strengths, and work styles. He also shares ways project managers can use these tools to relate to colleagues and create an environment in which everyone is able to succeed.
 
 
 ## Learning objectives
 
+- Examine the Myers-Briggs type indicator.
 
+- Explore use of the Tates work styles assessment.
+
+- Identify the elements of emotional intelligence.
+
+- Explore applications of the situational leadership model to address employee needs.
+
+- Examine how the Lencioni model applies to dysfunctional teams.
 
 
 .
 
+> 
 
 
-## Seventh Course
+.
+
+## Seventh Course [Project Management Foundations: Communication](https://www.linkedin.com/learning/project-management-foundations-communication-3/communication-skills-benefit-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
 ## Course details
+
+As a project manager, you'll spend most of your time communicating. To keep a fast-moving project on track, you need to know how to juggle the emails, phone calls, voice mail, and documentation. In this course, instructor Doug Rose shares the secrets of managing project communication, detailing how to craft a solid communication strategy that helps your team maximize buy-in and prioritize stakeholder input. Discover how to use a communication plan to develop two-way communication goals, run efficient meetings, and create concise reports.
+
 
 
 ## Learning objectives
+
+- Define “noise” in a message.
+
+- Identify the best method of communication for an emotionally charged and complex topic.
+
+- Recall the purpose of a stakeholder register.
+
+- Name the four quadrants in a power and interest grid.
+
+- Recognize the most common impediment to communication in cross-functional teams.
+
+- Review the SHARKS approach and explain how it helps with meeting organization.
+
 
 
 .
