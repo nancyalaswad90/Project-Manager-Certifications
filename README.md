@@ -314,20 +314,80 @@ If not managed properly, risk reduces your ability to achieve your project's goa
 .
 
 
-## Ninth Course
+## Ninth Course  [Managing Project Stakeholders](https://www.linkedin.com/learning/managing-project-stakeholders-2/stakeholders-drive-project-success?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
 ## Course details
 
 
+Your stakeholders—individuals with a vested interest in your project's results—might not be present in your day-to-day work. But since they ultimately impact your project's outcomes, knowing how to define who your stakeholders are and what they need is integral to your success as a project manager. In this course, learn how to identify stakeholder needs and expectations, both explicit and implicit, and build and sustain stakeholder engagement. Natasha Kasimtseva begins by detailing the measurable benefits related to successful stakeholder management. She then explains how to iteratively identify your own stakeholders; analyze and evaluate stakeholders using both emotional intelligence and data representation tools; and engage in service-based thinking as a leader.
+
+
+
 ## Learning objectives
+
+
+- Explain the importance of stakeholders.
+
+- Identify stakeholder roles.
+
+- Break down the primary drivers of stakeholder engagement.
+
+- Determine the elements of the stakeholder engagement process.
+
+- Distinguish among the tools to use for managing stakeholder engagement.
 
 
 .
 
+> 
 
-## Tenth Course
+.
+
+
+## Tenth Course [Microsoft Project Quick Tips](https://www.linkedin.com/learning/microsoft-project-quick-tips/saving-time-in-project?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+
 
 ## Course details
 
+Take a quick minute or two and learn valuable, time-saving Microsoft Project tips from a project management pro, Bonnie Biafore, PMP and MCTS. She offers a series of bite-size insider solutions for many of the most common issues that frustrate Project users, covering data entry, scheduling, formatting, staying organized, and more.
+
+
+
 
 ## Learning objectives
+
+
+- Working faster in Microsoft Project
+
+- Entering data
+
+
+- Using keyboard shortcuts
+
+- Formatting tables
+
+- Modifying views
+
+- Sorting and Filtering
+
+- Scheduling
+
+- Working with Files
+
+- Backing up
+
+- Security
+
+- Sharing customization with a colleague
+
+
+
+.
+
+> 
+
+.
 
