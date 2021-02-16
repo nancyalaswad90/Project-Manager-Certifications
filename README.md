@@ -282,12 +282,34 @@ As a project manager, you'll spend most of your time communicating. To keep a fa
 
 .
 
-## Eighth Course
+## Eighth Course  [Project Management Foundations: Risk](https://www.linkedin.com/learning/project-management-foundations-risk-3/risk-the-beast-to-tame?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
 
 ## Course details
 
+If not managed properly, risk reduces your ability to achieve your project's goals. It may even derail your project altogether. In this course, author and PMP Bob McGannon shows you how to anticipate, assess, and manage risk—one of the 10 foundational knowledge areas of the Project Management Body of Knowledge. Discover how to create a risk management plan, identify and categorize risks, perform qualitative and quantitative risk analysis, build a response plan, and monitor and control risks as they occur, all while keeping your project on budget and on track.
+
 
 ## Learning objectives
+
+- Explore why dealing with risks needs to be part of the everyday process used to manage a project.
+
+- Learn to outline the most common, pragmatic approaches to identifying risks specific to a project.
+
+- Recall methods for qualifying and quantifying your risks to determine specific risks and manage their costs.
+
+- Examine the primary considerations for a project risk plan and what components should be included in every plan.
+
+- Assess techniques that help you identify the overall risk a project presents to your business.
+
+- Examine several risk analysis and filtering examples that help ensure you've addressed individual risks properly on your project.
+
+
+
+.
+
+> 
 
 .
 
