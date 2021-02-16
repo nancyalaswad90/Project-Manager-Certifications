@@ -145,8 +145,35 @@ Project requirements are how project managers determine what the business needs 
 ## Course details
 
 
+Discover how to build project schedules that help you accomplish your project goals on time and within budget—while being flexible enough to accommodate change. In this course, trainer and PMP Bonnie Biafore teaches you how to proactively manage project schedules. Learn how to develop a plan for schedule management; identify activities and milestones; estimate costs; allocate and negotiate for resources; and manage the schedule over time. Bonnie introduces techniques to uncover and resolve schedule conflicts, shorten timeframes, and reduce costs. By the end of the course, you'll have learned the skills you need to meet stakeholder expectations and adapt to changes as they arise over the life of the project.
+
+
 ## Learning objectives
 
+
+- Developing a schedule management plan.
+
+- Identifying project activities 
+
+- Adding milestones
+
+- Organizing work
+
+- Estimating duration and work
+
+- Handling lag in dependencies
+
+- Defining resources
+
+- Assigning resources to activities
+
+- Working with part-time and remote workers
+
+- Fine-tuning assignments
+
+- Optimizing schedules
+
+- Managing and changing schedules
 
 
 .
