@@ -112,6 +112,12 @@ Your overall success as a project manager depends upon your ability to identify 
 ## Third Course [Project Management Foundations: Requirements](https://www.linkedin.com/learning/project-management-foundations-requirements-2/managing-requirements-for-successful-projects?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
 
+## Course details
+
+
+## Learning objectives
+
+
 .
 
 > ![Project Management FoundationRequirements](https://user-images.githubusercontent.com/36210723/107838921-17bf8b00-6db1-11eb-9154-2277dea68773.png)
@@ -122,6 +128,12 @@ Your overall success as a project manager depends upon your ability to identify 
 
 
 ## Fourth Course [ Project Management Foundations: Schedules ](https://www.linkedin.com/learning/project-management-foundations-schedules-2/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
+
+
+## Course details
+
+
+## Learning objectives
 
 
 
@@ -143,6 +155,11 @@ Your overall success as a project manager depends upon your ability to identify 
  ## Fifth Course [Project Management Foundations: Budgets](https://www.linkedin.com/learning/project-management-foundations-budgets-3/manage-your-project-budget-so-it-doesn-t-manage-you?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56db2d113dd5596be4e4989d)
 
 
+## Course details
+
+
+## Learning objectives
+
 
 .
 
@@ -154,9 +171,51 @@ Your overall success as a project manager depends upon your ability to identify 
 
 ## Sixth Course 
 
+## Course details
+
+
+## Learning objectives
+
+
+
+
+.
+
+
+
 ## Seventh Course
+## Course details
+
+
+## Learning objectives
+
+
+.
 
 ## Eighth Course
+
+## Course details
+
+
+## Learning objectives
+
+.
+
+
 ## Ninth Course
+## Course details
+
+
+## Learning objectives
+
+
+.
+
+
 ## Tenth Course
+
+## Course details
+
+
+## Learning objectives
 
