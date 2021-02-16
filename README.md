@@ -114,8 +114,20 @@ Your overall success as a project manager depends upon your ability to identify 
 
 ## Course details
 
+Project requirements are how project managers determine what the business needs and align the project’s goals. Requirements also form the basis for defining a project’s scope, assigning resources, and performing acceptance testing. In this course, Daniel Stanton, PMP, introduces an easy, 10-step process to manage the requirements for any project. Find out how to determine applicable standards, identify your stakeholders, gather and analyze requirements, prioritize them, and document your findings. Daniel also explains how to solicit approval for project requirements and manage ongoing change requests.
+
 
 ## Learning objectives
+
+- Describe how to appropriately manage requirements.
+
+- Differentiate between plans intended to draw requirements from stakeholders and keep stakeholders engaged.
+
+- Define terms used in stakeholder analysis.
+
+- Identify the 10 attributes of project requirements.
+
+- Review the appropriate methods for determining project requirements priorities.
 
 
 .
